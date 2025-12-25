@@ -1,0 +1,1 @@
+This MATLAB package (`DHNNMF_main`) provides the solver `DHNNMF.m`, demo script `demo_DHNNMF.m` and hypergraph builder `construct_hypergraph_knn.m` for the paper "Chunli Song, Linzhang Lu*, Chengbin Zeng. Dual Hypergraph Regularized NMF with Nonsmooth and Orthogonality Constraints"; unzip and run `demo_DHNNMF.m` to reproduce the clustering results.
